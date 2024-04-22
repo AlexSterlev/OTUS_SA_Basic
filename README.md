@@ -99,6 +99,9 @@
 - Найм, обучение и мотивация персонала, включая механиков, автомехаников и административный персонал.
 - Распределение обязанностей, планирование графиков работы и контроль производительности сотрудников.
 <a name="treb"><h2>Определение требований к системе</h2></a>
+### Диаграмма классов:
+![image1](https://github.com/AlexSterlev/OTUS_SA_Basic/blob/main/ClassDiag.jpg)
+
 #### Нефункциональные требования:
 <table><tr><th valign="top"><i>№</i></th><th valign="top"><i>Тема</i></th><th valign="top"><i>Требование</i></th><th valign="top"><i>Тип</i></th><th valign="top"><i>Комментарий</i></th></tr>
 <tr><td rowspan="3" valign="top"></td><td rowspan="3" valign="top"><i>Технологический стек</i></td><td valign="top"><i>Разработка backend на Python,</i></td><td valign="top"><i>Нефункциональное</i></td><td valign="top"></td></tr>
