@@ -128,21 +128,6 @@
 #### Формализация бизнес требований:
 ![image1](https://github.com/AlexSterlev/OTUS_SA_Basic/blob/main/needs.png)
 
-
-<table><tr><th valign="top"><i>№</i></th><th valign="top"><i>Тема</i></th><th valign="top"><i>Требование</i></th><th valign="top"><i>Тип</i></th></tr>
-<tr><td rowspan="6" valign="top"></td><td rowspan="6" valign="top"><i>Функционал MVP</i></td><td valign="top"><i>Регистрация пользователей в системе</i></td><td valign="top"><i>Функциональное</i></td></tr>
-<tr><td valign="top"><i>Разграничение доступа к устройствам</i></td><td valign="top"><i>Функциональное</i></td></tr>
-<tr><td valign="top"><i>Загрузка данных в устройства</i></td><td valign="top"><i>Функциональное</i></td></tr>
-<tr><td valign="top"><i>Удалённое управление устройством</i></td><td valign="top"><i>Функциональное</i></td></tr>
-<tr><td valign="top"><i>Удалённое управление воспроизведением</i></td><td valign="top"><i>Функциональное</i></td></tr>
-<tr><td valign="top"><i>Добавление устройств в систему</i></td><td valign="top"><i>Функциональное</i></td></tr>
-<tr><td valign="top"></td><td valign="top"><i>Планируемый охват аудитории (MVP)</i></td><td valign="top"><i>Все менеджеры компании в течении полугода перейдут на данную систему</i></td><td valign="top"><i>Бизнес</i></td></tr>
-<tr><td rowspan="4" valign="top"></td><td rowspan="4" valign="top"></td><td valign="top"><i>1 года окупаемость.</i></td><td valign="top"><i>Бизнес</i></td></tr>
-<tr><td valign="top"><i>Через год планируем продавать доступ к сервису  и аренду устройств по франшизе</i></td><td valign="top"><i>Бизнес</i></td></tr>
-<tr><td valign="top"><i>За 6 месяца (MVP) требуется уменьшить штат и транспортные расходы  вдвое.</i></td><td valign="top"><i>Бизнес</i></td></tr>
-<tr><td valign="top"></td><td valign="top"></td></tr>
-</table>
-
 <a name="us"><h2>Пользовательские истории</h2></a>
 
 |US001|Я как менеджер хочу видеть список свободных мастеров для их назначения на работы|must|Менеджер|mvp|На сайте сервиса отображается список свободных мастеров|
