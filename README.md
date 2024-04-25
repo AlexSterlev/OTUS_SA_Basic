@@ -165,9 +165,9 @@
 #### На основе этих сущностей, мы можем спроектировать следующую диаграмму классов:
 
 #### Алгоритм добавления устройства в систему:
-![image4](https://github.com/AlexSterlev/OTUS_SA_2024/blob/main/add_device.png)
+![image4](https://github.com/AlexSterlev/OTUS_SA_2024/blob/main/BPMN.jpg)
 
-![image3](https://github.com/AlexSterlev/OTUS_SA_2024/blob/main/add_device.png)
+![image3](https://github.com/AlexSterlev/OTUS_SA_2024/blob/main/Activity.png)
 
 #### Контекст-диаграмма (System context):
 ![imag102](https://github.com/AlexSterlev/OTUS_SA_2024/blob/main/DiagComponent.png)
