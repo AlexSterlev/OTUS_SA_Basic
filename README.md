@@ -129,7 +129,7 @@
 
 #### Формализация бизнес требований:
 
-
+![image1](https://github.com/AlexSterlev/OTUS_SA_Basic/blob/main/needs.pdf)
 
 
 <table><tr><th valign="top"><i>№</i></th><th valign="top"><i>Тема</i></th><th valign="top"><i>Требование</i></th><th valign="top"><i>Тип</i></th></tr>
