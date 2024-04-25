@@ -164,9 +164,10 @@
 
 #### На основе этих сущностей, мы можем спроектировать следующую диаграмму классов:
 
-#### Алгоритм добавления устройства в систему:
+#### Алгоритм приёмки ТС в ремонт:
 ![image4](https://github.com/AlexSterlev/OTUS_SA_Basic/blob/main/BPMN.jpg)
 
+#### Алгоритм технического обслуживания ТС:
 ![image3](https://github.com/AlexSterlev/OTUS_SA_Basic/blob/main/Activity.png)
 
 #### Контекст-диаграмма (System context):
