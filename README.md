@@ -99,6 +99,8 @@
 - Найм, обучение и мотивация персонала, включая механиков, автомехаников и административный персонал.
 - Распределение обязанностей, планирование графиков работы и контроль производительности сотрудников.
 
+
+
 <a name="treb"><h2>Определение требований к системе</h2></a>
 #### Нефункциональные требования:
 <table><tr><th valign="top"><i>№</i></th><th valign="top"><i>Тема</i></th><th valign="top"><i>Требование</i></th><th valign="top"><i>Тип</i></th><th valign="top"><i>Комментарий</i></th></tr>
@@ -163,13 +165,16 @@
 #### На основе этих сущностей, мы можем спроектировать следующую диаграмму классов:
 
 #### Алгоритм добавления устройства в систему:
-![image1](https://github.com/AlexSterlev/OTUS_SA_2024/blob/main/add_device.png)
+![image4](https://github.com/AlexSterlev/OTUS_SA_2024/blob/main/add_device.png)
+
+![image3](https://github.com/AlexSterlev/OTUS_SA_2024/blob/main/add_device.png)
+
 #### Контекст-диаграмма (System context):
-![image2](https://github.com/AlexSterlev/OTUS_SA_2024/blob/main/DiagComponent.png)
+![imag102](https://github.com/AlexSterlev/OTUS_SA_2024/blob/main/DiagComponent.png)
 #### Компонент-диаграмма (Component):
-![image3](https://github.com/AlexSterlev/OTUS_SA_2024/blob/main/DiagComponent2.png)
+![image11](https://github.com/AlexSterlev/OTUS_SA_2024/blob/main/DiagComponent2.png)
 #### Разработка базы данных для функционирования сервиса:
-![image4](https://github.com/AlexSterlev/OTUS_SA_2024/blob/main/BD_diag.jpg)
+![image12](https://github.com/AlexSterlev/OTUS_SA_2024/blob/main/BD_diag.jpg)
 #### Описание таблиц Базы Данных:
 - *Employees* – Таблица хранящая данные сотрудников.
 - *Account* – Таблица хранящая данные для авторизации.
