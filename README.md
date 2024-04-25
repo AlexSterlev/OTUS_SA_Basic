@@ -129,7 +129,7 @@
 
 #### Формализация бизнес требований:
 <details>
-	summary><h3>Проблемы и требования></summary>
+<summary><h3>Проблемы и требования></summary>
 ![image2](https://github.com/AlexSterlev/OTUS_SA_Basic/blob/main/needs.png)
 </details>
 
