@@ -128,9 +128,10 @@
 
 
 #### Формализация бизнес требований:
-
+<details>
+	summary><h3>Проблемы и требования></summary>
 ![image2](https://github.com/AlexSterlev/OTUS_SA_Basic/blob/main/needs.png)
-
+</details>
 
 <table><tr><th valign="top"><i>№</i></th><th valign="top"><i>Тема</i></th><th valign="top"><i>Требование</i></th><th valign="top"><i>Тип</i></th></tr>
 <tr><td rowspan="6" valign="top"></td><td rowspan="6" valign="top"><i>Функционал MVP</i></td><td valign="top"><i>Регистрация пользователей в системе</i></td><td valign="top"><i>Функциональное</i></td></tr>
