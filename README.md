@@ -170,6 +170,10 @@
 #### Алгоритм технического обслуживания ТС:
 ![image3](https://github.com/AlexSterlev/OTUS_SA_Basic/blob/main/Activity.png)
 
+<a name="proekt"><h2>Проектирование структуры приложения</h2></a>
+#### Компонентная диаграмма:
+![image5](https://github.com/AlexSterlev/OTUS_SA_Basic/blob/main/С4.jpg)
+
 <a name="ac"><h2>Acceptance Criteria для MVP</h2></a>
 
 <details>
